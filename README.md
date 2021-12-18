@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Overview
-
+The purpose of this analysis is to remove the grades of the 9th graders at Thomas High School. 
 ## Results
 How is the district summary affected?
 How is the school summary affected?
